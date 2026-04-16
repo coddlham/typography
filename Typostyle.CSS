@@ -399,6 +399,14 @@ img {
     font-size: 22px;
   }
 
+  .genre-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
   .review-highlight {
     font-size: 24px;
   }
